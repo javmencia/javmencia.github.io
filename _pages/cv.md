@@ -19,7 +19,7 @@ Toronto, Canada
 **University of Toronto, Dalla Lana School of Public Health**  
 *Toronto, Canada*  
 *M.Sc. in Biostatistics*  
-*2025-*  
+*2025-Present*  
  
 
 **University of Toronto**  
