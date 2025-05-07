@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-# Javier Mencia Ledo 
 
 **j.mencialedo@mail.utoronto.ca** | +1 (416) 824-3241  
 Toronto, Canada  
 
----
+====
 
 ## EDUCATION 
 **University of Toronto, Dalla Lana School of Public Health**  
