@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Javier Mencia"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Javier Mencia"
 description              : &description "Biostats MSc Student at UofT"
