@@ -27,7 +27,7 @@ Click [here](http://javmencia.github.io/files/ResumeJavierMencia-2.pdf) to downl
 - *2024.05 - 2025.04* COBWEB Lab, Department of Environmental Studies, supervised by Dr. Brad Bass
 
 <span class="anchor" id="Industry Experience"></span>
-### Research Experience
+### Industry Experience
 
 - *2024.05 - 2024.08* KPMG, Financial Consulting Intern, Madrid, Spain
 - *2022.06 - 2022.08* AXPE Consulting, Quant AI Lab Intern, Madrid, Spain
