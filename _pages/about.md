@@ -12,12 +12,14 @@ I am an incoming Master's student in Biotatistics at the Dalla Lana School of Pu
 I am currently working at the ReSTORE Lab under the supervision of Dr. Nowrouzi-Kia through the Data Sciences Institute and Women's College Hospital under the supervision of Dr. David Lim through the Institute of Medical Sciences. 
 
 <span class="anchor" id="Education"></span>
-# 📖 Educations
+# 📖 Education
 - M.Sc. in Biostatistics (2027 expected), University of Toronto 
 - H.B.Sc. in Statistics and Mathematics (2025), University of Toronto 
 
 
 <span class="anchor" id="Research Experience"></span>
+# 📖 Research Experience
+
 - *2025.06 - Present* Women's College Hospital, supervised by Dr. David Lim
 - *2024.09 - Present* ReSTORE Lab, Faculty of Medicine, supervised by Dr. Nowrouzi-Kia
 - *2024.05 - 2024.12* Department of Statistics, supervised by Dr. Scott Schwartz
