@@ -11,4 +11,6 @@ I am an incoming Master's student in Biotatistics at the Dalla Lana School of Pu
 
 I am currently working at the ReSTORE Lab under the supervision of Dr. Nowrouzi-Kia through the Data Sciences Institute and Women's College Hospital under the supervision of Dr. David Lim through the Institute of Medical Sciences. 
 
+Email: j [DOT] mencialedo [AT] mail [DOT] utoronto [DOT] ca
+
 
