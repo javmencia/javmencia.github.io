@@ -22,9 +22,9 @@ Click [here](http://javmencia.github.io/files/ResumeJavierMencia-2.pdf) to downl
 
 - *2025.06 - Present* Women's College Hospital, supervised by Dr. David Lim
 - *2024.09 - Present* ReSTORE Lab, Faculty of Medicine, supervised by Dr. Nowrouzi-Kia
-- *2024.05 - 2024.12* Department of Statistics, supervised by Dr. Scott Schwartz
 - *2024.05 - 2025.04* SAM Lab, Department of Psychology, supervised by Dr. Rebecca Neel
-- *2024.05 - 2025.04* COBWEB Lab, Department of Environmental Studies, supervised by Dr. Brad Bass
+- *2024.05 - 2024.12* Department of Statistics, supervised by Dr. Scott Schwartz
+- *2023.08 - 2024.04* COBWEB Lab, Department of Environmental Studies, supervised by Dr. Brad Bass
 
 <span class="anchor" id="Industry Experience"></span>
 ### Industry Experience
