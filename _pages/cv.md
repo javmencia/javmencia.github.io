@@ -34,6 +34,7 @@ Click [here](http://javmencia.github.io/files/ResumeJavierMencia-2.pdf) to downl
 
 <span class="anchor" id="Internships"></span>
 ### Honors and Awards
+- *2024-2025* Faculty of Arts & Science Dean's List Scholar
 - *2025* Summer Undergraduate Data Science (SUDS) Research Scholar [$7,200 CAD]
 - *2025* Summer Undergraduate Research Program (SURP) Scholar [$6,950 CAD]
 - *2025* Urban Data Science Corps (SUDS) Research Scholar [$9,000 CAD] - *declined*
