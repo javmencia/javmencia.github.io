@@ -1,0 +1,18 @@
+---
+title: "Comparing Barriers to EAP Utilization in Canada and the U.S.: A Mixed-Methods Study Using NLP and Machine Learning "
+collection: publications
+category: manuscripts
+excerpt: 'This mixed-methods study explores barriers to Employee Assistance Programs (EAPs) usage and identifies potential differences in barriers between Canadian and American workers using natural language processing (NLP).'
+date: 2025-08-14
+venue: 'BMC Artificial Intelligence (Under Review)'
+---
+Abstract
+
+Introduction/Objective: Employee Assistance Programs (EAPs) provide critical mental health support, yet utilization remains low in both Canada and the United States. Although qualitative studies have examined general barriers to EAP use, few have compared country-specific perceptions. This mixed-methods study explores barriers to EAP usage and identifies potential differences in barriers between Canadian and American workers using natural language processing (NLP).  
+
+Methods: This sequential mixed-methods exploratory study included 30 semi-structured interviews with EAP-eligible employees (aged 18-65 years) in Canada and the U.S. who had not previously used EAP services. Interviews were analyzed thematically using an inductive approach in accordance with COREQ guidelines. In Phase 2 of the study, a BERT-based NLP model was trained to classify quotes by country, and permutation tests assessed the distribution of barriers across Canadian and American responses. 
+
+Results: In phase 1, three core themes were observed: (1) Structural, informational and systematic barriers influencing EAP accessibility and coverage; (2) Reluctance to use EAP services due to psychosocial and perceptual barriers; and (3) Service quality, scope and cultural relevance to those with multiple social identities.  While most barriers were common across countries, financial concerns were reported exclusively by U.S. participants.  In Phase 2, the BERT model achieved 86% classification accuracy, with financial accessibility emerging as a key feature in Americans quotes and perceived issue severity emphasized by Canadians. 
+
+Conclusions:  Although many barriers to EAP usage are shared, financial and perceptual differences exist between Canadian and American workers. These findings emphasize the need for culturally and structurally tailored EAP promotion strategies to improve access and uptake. Further studies should explore sector-specific and longitudinal trends in EAP perceptions.  
+ 
