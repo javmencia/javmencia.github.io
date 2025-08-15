@@ -1,0 +1,19 @@
+---
+title: "Early Detection of Labor Force Exit in Systemic Lupus Erythematosus: A Longitudinal Analysis of Disability, Unemployment, and Mortality using LSTM"
+collection: publications
+category: manuscripts
+excerpt: 'This study develops a machine learning model to identify high-risk patients early, enabling timely interventions like treatment adjustments or workplace accommodations.'
+date: 2025-08-21
+venue: 'In Progress'
+---
+Abstract
+
+Background: Systemic lupus erythematosus (SLE) is a chronic autoimmune disease causing unpredictable flares and multiorgan irreversible damage, often leading to functional decline. About 20-40% of patients exit the workforce prematurely due to disability, unemployment, or mortality, resulting in financial and psychological strain. This study develops a machine learning model to identify high-risk patients early, enabling timely interventions like treatment adjustments or workplace accommodations. 
+
+Methods: We analyzed longitudinal data from 1,025 employed SLE patients from the Toronto Lupus Clinic (1996-2024). Employment exit categories included stable employment, disability benefits, or SLE-related death. Unemployed or early-retired patients were censored. Key features (disease activity, treatment, organ damage) selected by a Random Forest classifier were used in a Long Short-Term Memory (LSTM) model. The LSTM processed sequential visit data, updating hidden states at each visit. The model was validated by evaluating the correct classification rate of each employment state. Then, separate risk scores were calculated at each visit for disability and mortality respectively. A risk alert was triggered if scores exceeded an optimized threshold. Model performance was assessed using prediction accuracy and evaluating early detection time. 
+
+Results: Patients that eventually became disabled had higher disease activity, steroid use, and irreversible damage, as well as more frequent visits over longer follow up periods (all p < 0.001). The model achieved 91% balanced accuracy in predicting final employment exit states. The risk scores flagged 89% of future disability cases with 94% recall, providing a median 28.6-month early warning while minimizing false alarms. 
+
+Conclusions: Our early warning system identifies high-risk SLE patients 2–3 years before workforce exit using dynamic clinical data. By linking risk scores to specific disease features, clinicians can intervene early, improving outcomes. This approach fills a critical gap in chronic disease management, preventing irreversible functional decline. 
+
+ 
