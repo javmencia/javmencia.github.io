@@ -13,7 +13,7 @@ This past summer, I worked at the [ReSTORE Lab](https://www.restore.rehab/) unde
 
 Email: j.mencialedo@mail.utoronto.ca
 
-![Picture of me presenting at the SURP Research Day](https://javmencia.github.io/files/suds1.jpeg)
+![Picture of me presenting at the Data Science Institute](https://javmencia.github.io/files/suds1.jpeg)
 
 
 
