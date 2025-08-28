@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://javmencia.github.io/files/ResumeJavierMencia-2.pdf) to download a full copy of my CV (May, 2025). 
+Click [here](http://javmencia.github.io/files/JavierMenciaCV.pdf) to download a full copy of my CV (August, 2025). 
 
 <span class="anchor" id="Education"></span>
 ### Education
