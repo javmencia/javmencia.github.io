@@ -9,7 +9,7 @@ redirect_from:
 
 I am an MSc candidate in Biotatistics at the Dalla Lana School of Public Health at the University of Toronto (UofT). I just obtained my B.Sc. in Statistics and Mathematics also from UofT. I am highly interested in the applications of machine learning to risk prediction for chronic conditions and causal inference.  
 
-I recently joined the [HIVE Lab](https://www.hivelab-uoft.ca/) for the practicum component of my MSc. This past summer, I worked at the [ReSTORE Lab](https://www.restore.rehab/) under the supervision of Dr. Nowrouzi-Kia through the Data Sciences Institute's [SUDS program](https://datasciences.utoronto.ca/data-sciences-institute-celebrates-suds-cohort-of-2025-with-showcase/) and Women's College Hospital under the supervision of Dr. David Lim through the Institute of Medical Sciences' SURP. 
+I recently joined Dr. Zahra Shakeri's [HIVE Lab](https://www.hivelab-uoft.ca/) for the practicum component of my MSc. This past summer, I worked at the [ReSTORE Lab](https://www.restore.rehab/) under the supervision of Dr. Nowrouzi-Kia through the Data Sciences Institute's [SUDS program](https://datasciences.utoronto.ca/data-sciences-institute-celebrates-suds-cohort-of-2025-with-showcase/) and Women's College Hospital under the supervision of Dr. David Lim through the Institute of Medical Sciences' SURP. 
 
 Email: j.mencialedo@mail.utoronto.ca
 
