@@ -1,0 +1,23 @@
+---
+title: "Predicting Early Workforce Departure in Systemic Lupus Erythematosus Patients: A Machine Learning Approach to Guide Early Clinical Intervention"
+collection: talks
+type: "Oral"
+venue: "7th International Work Disability Prevention and Integration (WDPI) Conference"
+permalink: /talks/2026-05-12-wdpi
+date: 2026-05-12
+location: "Toronto, ON"
+---
+
+I will be presenting the work below in an oral presentation at the 7th International Work Disability Prevention and Integration (WDPI) Conference in May in Vancouver! Read the abstract below:
+
+
+Background: Systemic lupus erythematosus (SLE) is a chronic autoimmune disease characterized by unpredictable flares and multiorgan involvement, often leading to progressive functional decline. These debilitating symptoms frequently impair work capacity, resulting in premature workforce exit affecting 20-40% of SLE patients. This carries severe socioeconomic and psychological consequences, including reduced quality of life, and increased healthcare dependency. This study aims to develop an interpretable machine learning model to flag high-risk patients before they leave the workforce, enabling timely targeted interventions. 
+
+Methods: We analyzed longitudinal data from 1,025 employed SLE patients at the Toronto Lupus Clinic (1996–2024). Patients were categorized into three exclusive outcomes: disability, SLE-mortality, and stable employment (remaining employed or retiring at/after national retirement age). Other exit categories were censored. A Random-Forest classifier selected visit-to-visit disease activity measures, treatment regimens, and organ damage features for a Long Short-Term Memory (LSTM) model. Each visit’s data was processed with prior history to create an updated patient health hidden state. The final hidden state was used to predict the most likely employment outcome. Risk scores were calculated at each visit with sigmoid activation, and alerts were triggered if scores exceeded an optimized threshold. Prediction accuracy and lead time for early detection assessed model effectiveness. 
+
+Results: Future disabled patients showed more frequent visits and higher numbers over longer follow-ups, with higher doses of glucocorticoids and antimalarials, greater disease activity, irreversible damage, and more frequent flares (all p < 0.001). The model achieved 91% balanced accuracy in predicting the final employment state. More significantly, the early detection system identified 89% of future disability cases with 94% recall, providing a median 28.6-month (IQR: 14.3–42.1) warning before workforce exit and minimizing false alarms. 
+
+Conclusions: Predicting workforce exit for SLE patients is critical to preserving independence and quality of life. Our early warning system uses longitudinal visit data to flag most future disability cases 2–3 years in advance. The early risk alarms enable timely workplace accommodations and precision interventions. By transforming reactive care into preemptive action, this model closes a critical gap in chronic disease management, empowering clinicians to intervene before functional decline becomes permanent. 
+
+
+
