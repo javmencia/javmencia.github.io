@@ -1,0 +1,21 @@
+---
+title: "Predicting Early Workforce Departure in Systemic Lupus Erythematosus Patients: A Machine Learning Approach to Guide Early Clinical Intervention"
+collection: talks
+type: "Poster"
+venue: "15th European Lupus Meeting"
+permalink: /talks/eurosle2026
+date: 2026-03-04
+location: "Lisbon, PT"
+---
+
+I will be presenting the work below in a poster presentation at the 15th European Lupus Meeting in March in Lisbon! Read the abstract below:
+
+Objectives: Systemic lupus erythematosus (SLE) is a chronic autoimmune disease characterized by unpredictable flares and multiorgan involvement, often leading to progressive functional decline. Consequently, 20-40% of SLE patients leaving the workforce prematurely, which carries severe socioeconomic and psychological consequences, including reduced quality of life, and increased healthcare dependency. This study aims to develop: 1-A prediction model for long-term adverse outcomes like work disability (WD) and SLE-mortality; and 2-A machine learning algorithm to pre-emptively flag patients at high-risk of WD.   
+
+Methods: We analyzed longitudinal data from 1,044 employed SLE patients at the Toronto Lupus Clinic (1996–2024). Patient-reported employment categories were categorized into three exclusive outcomes: WD (permanent or prolonged sick leave), SLE-mortality, and stable employment (actively employed or retiring at/after Canadian retirement age). A Random-Forest classifier selected visit-to-visit disease activity measures, treatment regimens, and organ damage features for a Long Short-Term Memory (LSTM) model. Each visit’s data was processed with prior history to create an updated patient health hidden state. The final hidden state was used to classify patients into their most likely final employment outcome. Risk scores for WD were calculated at each visit, and early warning alerts were triggered if scores exceeded an optimized threshold. Prediction accuracy and lead time for early detection assessed model effectiveness.  
+
+Results: 129 patients eventually reported WD, these patients showed more frequent visits to the clinic over longer follow-ups, with higher doses of glucocorticoids and antimalarials, higher disease activity, irreversible damage, and more frequent flares (all p < 0.001, Table 1). The prediction model achieved 91% balanced accuracy in predicting the final employment states. More significantly, the early machine learning algorithm identified 89% of future disability cases, providing a median 28.6-month (IQR: 14.3–42.1) warning before first reporting WD.  
+
+Conclusions: We also generated an early detection algorithm that flagged patients at a risk of disability 2–3 years in advance. This enables timely workplace accommodations and precision interventions to help prevent disability in SLE. By transforming reactive care into pre-emptive action, this prediction model closes a critical gap in SLE management, empowering health care teams to intervene before functional decline becomes permanent WD. 
+
+ 
