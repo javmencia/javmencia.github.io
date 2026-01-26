@@ -9,19 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://javmencia.github.io/files/JavierMenciaCV.pdf) to download a full copy of my CV (August, 2025). 
+Click [here](http://javmencia.github.io/files/JavierMenciaLedoCV.pdf) to download a full copy of my CV (January, 2026). 
 
 <span class="anchor" id="Education"></span>
 ### Education
-- M.Sc. in Biostatistics (2027 expected), University of Toronto 
+- M.Sc. in Biostatistics (2026 expected), University of Toronto 
 - H.B.Sc. in Statistics and Mathematics (2025), University of Toronto 
 
 
 <span class="anchor" id="Research Experience"></span>
 ### Research Experience
 
-- *2025.06 - Present* Women's College Hospital, supervised by Dr. David Lim
+- *2025.10 - Present* HIVE Lab, Institute of Health Policy, Management and Evaluation, supervised by Dr. Zahra Shakeri
 - *2024.09 - Present* ReSTORE Lab, Faculty of Medicine, supervised by Prof. Nowrouzi-Kia
+- *2025.06 - 2025.0,8* Women's College Hospital, supervised by Dr. David Lim
 - *2024.05 - 2025.04* SAM Lab, Department of Psychology, supervised by Prof. Rebecca Neel
 - *2024.05 - 2024.12* Department of Statistics, supervised by Prof. Scott Schwartz
 - *2023.08 - 2024.04* COBWEB Lab, Department of Environmental Studies, supervised by Prof. Brad Bass
