@@ -15,7 +15,7 @@ Email: j.mencialedo@mail.utoronto.ca
 
 ![Picture of me presenting at the Data Science Institute](https://javmencia.github.io/files/suds1.jpeg)
 
-🎤 Recent Updates
+## 🎤 Recent Updates
 
 #### Mar 2026 | UHN Bombardier Research Rounds
 
@@ -23,7 +23,7 @@ Email: j.mencialedo@mail.utoronto.ca
 
 - Presented to clinicians and researchers within the Arthritis Program at University Health Network (UHN).
 
-🚀 Upcoming Talks
+## 🚀 Upcoming Talks
 
 #### Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting
 
