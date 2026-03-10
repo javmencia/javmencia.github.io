@@ -17,18 +17,18 @@ Email: j.mencialedo@mail.utoronto.ca
 
 ## Recent Updates
 
-#### Mar 2026 | UHN Bombardier Research Rounds
+### Mar 2026 | UHN Bombardier Research Rounds
 
 - Delivered a 60-minute talk on Risk Prediction Modelling in SLE to clinicians within the Arthritis Program at University Health Network (UHN).
 
 
 ## Upcoming Talks
 
-#### Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting (📍 Halifax, NS)
+### Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting (📍 Halifax, NS)
 
 Presenting two research posters, including one selected for a poster tour.
 
-##### May 2026 | 7th International Work Disability Prevention & Integration (WDPI) Meeting (📍 Vancouver, BC)
+### May 2026 | 7th International Work Disability Prevention & Integration (WDPI) Meeting (📍 Vancouver, BC)
 
 Selected to deliver a talk on longitudinal labor force dropout modeling using machine learning.
 
