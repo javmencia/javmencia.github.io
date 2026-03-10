@@ -23,7 +23,7 @@ Email: j.mencialedo@mail.utoronto.ca
 
 🚀 Upcoming Talks
 
-####Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting
+#### Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting
 
 📍 Halifax, NS
 
