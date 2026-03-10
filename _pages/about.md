@@ -24,14 +24,10 @@ Email: j.mencialedo@mail.utoronto.ca
 
 ## Upcoming Talks
 
-#### Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting
-
-📍 Halifax, NS
+#### Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting (📍 Halifax, NS)
 
 Presenting two research posters, including a featured selection for the Official Conference Poster Tour.
 
-##### May 2026 | 7th International Work Disability Prevention & Integration (WDPI) Meeting
-
-📍 Vancouver, BC
+##### May 2026 | 7th International Work Disability Prevention & Integration (WDPI) Meeting (📍 Vancouver, BC)
 
 Oral Presentation: Selected to deliver an original research talk on longitudinal labor force dropout modeling.
