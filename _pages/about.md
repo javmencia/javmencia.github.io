@@ -19,9 +19,8 @@ Email: j.mencialedo@mail.utoronto.ca
 
 #### Mar 2026 | UHN Bombardier Research Rounds
 
-- Delivered a 60-minute talk on Risk Prediction Modelling in Systemic Lupus Erythematosus (SLE).
+- Delivered a 60-minute talk on Risk Prediction Modelling in SLE to clinicians within the Arthritis Program at University Health Network (UHN).
 
-- Presented to clinicians and researchers within the Arthritis Program at University Health Network (UHN).
 
 ## Upcoming Talks
 
