@@ -24,7 +24,9 @@ Email: j.mencialedo@mail.utoronto.ca
 ## Upcoming Talks
 
 - April 2026: Canadian Rheumatology Association Annual Meeting, Halifax, NS
+  
   Will be presenting two posters, one of them at a poster tour
 
 - May 2026: 7th International Work Disability Prevention and Integration Internal Meeting, Vancouver, BC
+
   Will be delivering an oral presentation
