@@ -15,5 +15,9 @@ Email: j.mencialedo@mail.utoronto.ca
 
 ![Picture of me presenting at the Data Science Institute](https://javmencia.github.io/files/suds1.jpeg)
 
+## Recent Updates
 
+- Feb 2026: Delivered Bombardier Research Rounds Talk
+    1 hour talk on risk prediction modelling in SLE 
+   
 
