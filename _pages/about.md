@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an MSc candidate in Biotatistics at the Dalla Lana School of Public Health at the University of Toronto (UofT). I am highly interested in the applications of machine learning to risk prediction for chronic conditions and causal inference.  
+I am an MSc candidate in Biostatistics at the Dalla Lana School of Public Health at the University of Toronto. I am highly interested in the applications of machine learning to risk prediction for chronic conditions and causal inference.  
 
-I am working on mortality risk prediction models for prostate cancer patients at Dr. Zahra Shakeri's [HIVE Lab](https://www.hivelab-uoft.ca/) for the practicum component of my MSc. I am also a research assistant at the [ReSTORE Lab](https://www.restore.rehab/) under the supervision of Dr. Nowrouzi-Kia and Dr. Zahi Touma working on predicting functional decline in lupus patients. 
+I am currently completing my MSc Biostatistics practicum at Dr. Zahra Shakeri’s [HIVE Lab](https://www.hivelab-uoft.ca/), where I develop longitudinal mortality risk prediction models for patients with prostate cancer. Concurrently, I serve as a Research Assistant at the [ReSTORE Lab](https://www.restore.rehab/), working under the supervision of Dr. Nowrouzi-Kia and Dr. Zahi Touma to apply machine learning techniques in predicting functional decline and work disability in patients with Systemic Lupus Erythematosus (SLE).
 
 Email: j.mencialedo@mail.utoronto.ca
 
