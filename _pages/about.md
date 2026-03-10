@@ -18,6 +18,7 @@ Email: j.mencialedo@mail.utoronto.ca
 ## Recent Updates
 
 - Feb 2026: Delivered Bombardier Research Rounds Talk
+  
     1 hour talk on risk prediction modelling in SLE 
    
 
