@@ -18,7 +18,7 @@ My talk, titled "Early Prediction of Work Disability in SLE Patients: Using Mach
 
 I reviewed the methodological framework used to build our risk stratification model, emphasizing how we leveraged longitudinal clinical data to detect latent signals of labor force dropout. A key highlight of the discussion was our estimation of the "warning window"—identifying exactly how far in advance of permanent disability onset a patient’s data triggers a high-risk flag. We also explored the specific clinical and socioeconomic factors driving these risk score fluctuations, providing the audience with a transparent look at the "why" behind the predictions to better support early clinical decision-making.
 
-Click [SLErisk.pdf](https://javmencia.github.io/files/BombardierMar2.pdf) to view it
+Click [SLErisk.pdf](https://javmencia.github.io/_talks/BombardierMar2.pdf) to view it
 
 
 
