@@ -13,18 +13,24 @@ Email: j.mencialedo@mail.utoronto.ca
 
 ![Picture of me presenting at the Data Science Institute](https://javmencia.github.io/files/suds1.jpeg)
 
-## Recent Updates
+🎤 Recent Updates
 
-- Mar 2026: Delivered UHN Bombardier Research Rounds Talk
-  
-    1 hour talk on risk prediction modelling in SLE 
-   
-## Upcoming Talks
+#### Mar 2026 | UHN Bombardier Research Rounds
 
-- April 2026: Canadian Rheumatology Association Annual Meeting, Halifax, NS
-  
-  Will be presenting two posters, one of them at a poster tour
+- Delivered a 60-minute talk on Risk Prediction Modelling in Systemic Lupus Erythematosus (SLE).
 
-- May 2026: 7th International Work Disability Prevention and Integration Internal Meeting, Vancouver, BC
+- Presented to clinicians and researchers within the Arthritis Program at University Health Network (UHN).
 
-  Will be delivering an oral presentation
+🚀 Upcoming Talks
+
+####Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting
+
+📍 Halifax, NS
+
+Presenting two research posters, including a featured selection for the Official Conference Poster Tour.
+
+##### May 2026 | 7th International Work Disability Prevention & Integration (WDPI) Meeting
+
+📍 Vancouver, BC
+
+Oral Presentation: Selected to deliver an original research talk on longitudinal labor force dropout modeling.
