@@ -15,7 +15,7 @@ I previously completed my MSc Biostatistics practicum at Dr. Zahra Shakeri’s [
 
 Email: j.mencialedo@mail.utoronto.ca
 
-![Picture of me presenting at the Data Science Institute](https://javmencia.github.io/files/suds1.jpeg)
+
 
 ## Recent Updates
 
@@ -31,5 +31,5 @@ Presented two research posters, including one selected for a poster tour oral pr
 
 - Delivered a 60-minute talk on Risk Prediction Modelling in SLE to clinicians within the Arthritis Program at University Health Network (UHN).
 
-
+![Picture of me presenting at the Data Science Institute](https://javmencia.github.io/files/suds1.jpeg)
 
