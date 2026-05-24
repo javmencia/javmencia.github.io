@@ -27,7 +27,7 @@ Email: j.mencialedo@mail.utoronto.ca
 
 Presented two research posters, including one selected for a poster tour oral presentation.
 
-### Mar 2026 | UHN Bombardier Research Rounds
+### Mar 2026 | UHN Bombardier Research Rounds (📍 Toronto, ON)
 
 - Delivered a 60-minute talk on Risk Prediction Modelling in SLE to clinicians within the Arthritis Program at University Health Network (UHN).
 
