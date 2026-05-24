@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an MSc candidate in Biostatistics at the Dalla Lana School of Public Health at the University of Toronto. I am highly interested in the applications of machine learning to risk prediction for chronic conditions and causal inference.  
+I am an incoming PhD student in Biostatistics at the Dalla Lana School of Public Health at the University of Toronto. I am highly interested in the applications of machine learning to risk prediction for chronic conditions and causal inference.  
 
-I am currently completing my MSc Biostatistics practicum at Dr. Zahra Shakeri’s [HIVE Lab](https://www.hivelab-uoft.ca/), where I develop longitudinal mortality risk prediction models for patients with prostate cancer. Concurrently, I serve as a Research Assistant at the [ReSTORE Lab](https://www.restore.rehab/), working under the supervision of Dr. Nowrouzi-Kia and Dr. Zahi Touma to apply machine learning techniques in predicting functional decline and work disability in patients with Systemic Lupus Erythematosus (SLE).
+I am interning at AstraZeneca's Oncology Outcomes Research department supporting real world evidence studies  currently completing my MSc Biostatistics practicum at Dr. Zahra Shakeri’s [HIVE Lab](https://www.hivelab-uoft.ca/), where I develop longitudinal mortality risk prediction models for patients with prostate cancer. Concurrently, I serve as a Research Assistant at the [ReSTORE Lab](https://www.restore.rehab/), working under the supervision of Dr. Nowrouzi-Kia and Dr. Zahi Touma to apply machine learning techniques in predicting functional decline and work disability in patients with Systemic Lupus Erythematosus (SLE).
 
 Email: j.mencialedo@mail.utoronto.ca
 
@@ -17,18 +17,17 @@ Email: j.mencialedo@mail.utoronto.ca
 
 ## Recent Updates
 
+### May 2026 | 7th International Work Disability Prevention & Integration (WDPI) Meeting (📍 Vancouver, BC)
+
+- Awarded Patrick Loisel Award (250 CAD) at the 7th International Work Disability Prevention & Integration (WDPI) Meeting and delivered oral presentation during closing ceremony on functional decline prediction using machine learning
+
+### Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting (📍 Halifax, NS)
+
+Presented two research posters, including one selected for a poster tour oral presentation.
+
 ### Mar 2026 | UHN Bombardier Research Rounds
 
 - Delivered a 60-minute talk on Risk Prediction Modelling in SLE to clinicians within the Arthritis Program at University Health Network (UHN).
 
 
-## Upcoming Talks
-
-### Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting (📍 Halifax, NS)
-
-Presenting two research posters, including one selected for a poster tour.
-
-### May 2026 | 7th International Work Disability Prevention & Integration (WDPI) Meeting (📍 Vancouver, BC)
-
-Selected to deliver a talk on longitudinal labor force dropout modeling using machine learning.
 
