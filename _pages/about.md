@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in Biostatistics at the Dalla Lana School of Public Health at the University of Toronto. I am highly interested in the applications of machine learning to risk prediction for chronic conditions and causal inference.  
+I am an incoming PhD student in Biostatistics at the Dalla Lana School of Public Health at the University of Toronto, currently I am interning at AstraZeneca's Oncology Outcomes Research department supporting real world evidence studies. 
 
-I am interning at AstraZeneca's Oncology Outcomes Research department supporting real world evidence studies  currently completing my MSc Biostatistics practicum at Dr. Zahra Shakeri’s [HIVE Lab](https://www.hivelab-uoft.ca/), where I develop longitudinal mortality risk prediction models for patients with prostate cancer. Concurrently, I serve as a Research Assistant at the [ReSTORE Lab](https://www.restore.rehab/), working under the supervision of Dr. Nowrouzi-Kia and Dr. Zahi Touma to apply machine learning techniques in predicting functional decline and work disability in patients with Systemic Lupus Erythematosus (SLE).
+I am highly interested in the applications of machine learning to risk prediction for chronic conditions and causal inference.  
+
+I previously completed my MSc Biostatistics practicum at Dr. Zahra Shakeri’s [HIVE Lab](https://www.hivelab-uoft.ca/), where I develop longitudinal mortality risk prediction models for patients with prostate cancer. Concurrently, I served as a Research Assistant at the [ReSTORE Lab](https://www.restore.rehab/) applying machine learning techniques in predicting functional decline and work disability in patients with Systemic Lupus Erythematosus (SLE).
 
 Email: j.mencialedo@mail.utoronto.ca
 
