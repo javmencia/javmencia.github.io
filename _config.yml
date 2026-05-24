@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Javier Mencia Ledo"
-description              : &description "Biostats MSc Student at UofT"
+description              : &description "Oncology Outcomes Research at AstraZeneca | Incoming Biostats PhD at UofT"
 url                      : https://javmencia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "javmencia/javmencia.github.io"
@@ -27,16 +27,16 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Biostatistics MSc Candidate at UofT"
   location         : "Toronto, CA"
-  employer         : "University of Toronto"
+  employer         : "AstraZeneca"
   uri              : # URL
   email            : "j.mencialedo@mail.utoronto.ca" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.ca/citations?user=QPvN3kkAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0009-5604-5922"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
