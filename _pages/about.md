@@ -25,7 +25,7 @@ Email: j.mencialedo@mail.utoronto.ca
 
 ### Apr 2026 | Canadian Rheumatology Association (CRA) Annual Meeting (📍 Halifax, NS)
 
-Presented two research posters, including one selected for a poster tour oral presentation.
+- Presented two research posters, including one selected for a poster tour oral presentation.
 
 ### Mar 2026 | UHN Bombardier Research Rounds (📍 Toronto, ON)
 
