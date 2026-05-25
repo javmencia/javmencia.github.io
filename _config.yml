@@ -22,10 +22,10 @@ repository               : "javmencia/javmencia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "javier.jpg"
+  avatar           : "javier.png"
   name             : "Javier Mencia Ledo"
   pronouns         : # example: "she/her"  
-  bio              : "Biostatistics MSc Candidate at UofT"
+  bio              : "Oncology Outcomes Research @ AstraZeneca | Biostatistics @ UofToronto"
   location         : "Toronto, CA"
   employer         : "AstraZeneca"
   uri              : # URL
