@@ -1,0 +1,52 @@
+---
+title: "Externally Validated Longitudinal GRU Model for Visit-Level 180-Day 
+Mortality Risk in Metastatic Castration-Resistant Prostate Cancer"
+collection: publications
+category: manuscripts
+excerpt: 'A GRU-based visit-level risk model was developed and externally 
+validated for 180-day mortality prediction in mCRPC using two Phase III 
+cohorts (n=526 and n=640), achieving a PR-AUC of 0.87 and a median 
+time-in-warning of 151 days for true positives at 85% sensitivity, 
+demonstrating that routine longitudinal clinical markers can support 
+proactive end-of-life care planning.'
+date: 2025-01-27
+venue: 'arXiv (cs.LG)'
+paperurl: 'https://doi.org/10.48550/arXiv.2601.20046'
+---
+
+## Abstract
+
+**Background:** Metastatic castration-resistant prostate cancer (mCRPC) is 
+a highly aggressive disease with poor prognosis and heterogeneous treatment 
+response. Short-term mortality risk prediction remains an urgent but 
+unsolved challenge, with no reliable tools for identifying patients 
+transitioning into a high-risk state warranting proactive care planning.
+
+**Methods:** We developed and externally validated a visit-level 180-day 
+mortality risk model using longitudinal data from two Phase III clinical 
+trial cohorts (n=526 and n=640). Only visits with observable 180-day 
+outcomes were labeled; right-censored cases were excluded. Five candidate 
+architectures were compared: Long Short-Term Memory (LSTM), Gated Recurrent 
+Unit (GRU), Cox Proportional Hazards, Random Survival Forest (RSF), and 
+Logistic Regression. For each dataset, the smallest risk threshold achieving 
+an 85% sensitivity floor was selected.
+
+**Results:** The GRU and RSF models achieved the highest discrimination in 
+the development cohort (C-index: 0.87 for both). In external validation, 
+the GRU demonstrated superior calibration (slope: 1.05; intercept: 0.04) 
+and achieved a PR-AUC of 0.91 and AUC-ROC of 0.92. Clinical impact analysis 
+showed a median time-in-warning of 151.0 days for true positives compared 
+to 64.0 days for false positives, with 18.3 alerts per 100 patient-visits. 
+Permutation importance ranked BMI and systolic blood pressure as the 
+strongest predictors, consistent with late-stage frailty and hemodynamic 
+instability.
+
+**Conclusions:** Longitudinal routine clinical markers can estimate 
+short-horizon mortality risk in mCRPC with clinically meaningful lead time. 
+The GRU framework supports proactive care planning over a multi-month window 
+and offers a scalable approach to end-of-life risk stratification in 
+late-stage cancer.
+
+**Keywords:** metastatic castration-resistant prostate cancer, mortality 
+prediction, gated recurrent unit, longitudinal risk model, external 
+validation, clinical decision support, survival analysis
