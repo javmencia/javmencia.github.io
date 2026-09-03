@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student in Biostatistics at the Dalla Lana School of Public Health at the University of Toronto, currently I am interning at AstraZeneca's Oncology Outcomes Research department supporting real world evidence studies. 
+I am a PhD student in Biostatistics at the Dalla Lana School of Public Health at the University of Toronto, I am also interning at AstraZeneca's Oncology Outcomes Research department supporting real world evidence studies. 
 
 I am highly interested in the applications of machine learning to risk prediction for chronic conditions and causal inference.  
 
