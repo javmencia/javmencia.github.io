@@ -26,7 +26,7 @@ Email: j.mencialedo@mail.utoronto.ca
 
 ## Upcoming Talks
 
-* **November 2026** Accepted for an oral presentation and two posters at the American College of Rheumatology Convergence 2026 in Orlando, Fl.
+* **November 2026** Accepted for an oral presentation and two posters at the American College of Rheumatology Convergence 2026 in Orlando, FL.
 
   
 ![Picture of me presenting at the Data Science Institute](https://javiermencialedo.github.io/files/suds1.jpeg)
