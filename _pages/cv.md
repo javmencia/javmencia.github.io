@@ -13,7 +13,8 @@ Click [here](http://javmencia.github.io/files/JavierMenciaLedoCV.pdf) to downloa
 
 <span class="anchor" id="Education"></span>
 ### Education
-- M.Sc. in Biostatistics (2026 expected), University of Toronto 
+- Ph.D. in Biostatistics (2030 expected), University of Toronto 
+- M.Sc. in Biostatistics (2026), University of Toronto 
 - H.B.Sc. in Statistics and Mathematics (2025), University of Toronto 
 
 
