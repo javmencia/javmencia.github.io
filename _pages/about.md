@@ -26,5 +26,5 @@ Email: j.mencialedo@mail.utoronto.ca
 * **Mar 2026** Delivered a talk on Risk Prediction Modelling in SLE to clinicians at UHN Bombardier Research Rounds (📍 Toronto, ON).
 
   
-![Picture of me presenting at the Data Science Institute](https://javmencia.github.io/files/suds1.jpeg)
+![Picture of me presenting at the Data Science Institute](https://javiermencialedo.github.io/files/suds1.jpeg)
 
