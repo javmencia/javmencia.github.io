@@ -23,7 +23,11 @@ Email: j.mencialedo@mail.utoronto.ca
 * **Jul 2026** Presented work on a metastatic castration-resistant prostate cancer mortality prediction model at the IEEE EMBC (📍 Toronto, ON).
 * **May 2026** Received the Patrick Loisel Award and delivered an oral presentation on functional decline prediction using machine learning at the 7th International WDPI Meeting (📍 Vancouver, BC).
 * **Apr 2026** Presented two research posters, including a poster tour oral presentation at the CRA Annual Meeting (📍 Halifax, NS).
-* **Mar 2026** Delivered a talk on Risk Prediction Modelling in SLE to clinicians at UHN Bombardier Research Rounds (📍 Toronto, ON).
+* **Mar 2026** Delivered a 60-minute talk on Risk Prediction Modelling in SLE to clinicians at UHN Bombardier Research Rounds (📍 Toronto, ON).
+
+## Upcoming Talks
+
+* **November 2026** Accepted for an oral presentation and two posters at the American College of Rheumatology Convergence 2026 in Orlando, Fl.
 
   
 ![Picture of me presenting at the Data Science Institute](https://javiermencialedo.github.io/files/suds1.jpeg)
