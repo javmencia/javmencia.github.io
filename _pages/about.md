@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Javier Mencia Ledo"
+title: "Javier Mencia-Ledo"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student in Biostatistics at the Dalla Lana School of Public Health at the University of Toronto supervised by Dr. George Tomlinson, I am also interning at AstraZeneca's Oncology Outcomes Research department supporting real world evidence studies. 
+I am a first-year PhD student in Biostatistics at the Dalla Lana School of Public Health at the University of Toronto supervised by Dr. George Tomlinson, I am also interning at AstraZeneca's Oncology Outcomes Research department supporting real world evidence studies. 
 
 I am highly interested in the applications of machine learning and causal inference to risk prediction for chronic conditions.  
 
